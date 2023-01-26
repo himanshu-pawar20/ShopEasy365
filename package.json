@@ -1,0 +1,15 @@
+{
+  "name": "htdocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mail.js",
+  "scripts": {
+    "dev":"nodemon mail"
+  },
+  "author": "aniket pawar",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
